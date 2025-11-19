@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+<p align="center">
+  <img src="assets/banner.png" alt="Model Compression Study Banner" width="100%">
+</p>
+
+>>>>>>> f94db920d8d2db721d4641312066f4e7e9ac0128
 # 🧠 Model Compression Study  
 > **精研模型压缩技术：量化 · 剪枝 · 蒸馏 · 加速 · 部署**
 
@@ -26,4 +33,8 @@ model_compression_study/
 ├── notebooks/            # Jupyter 实践笔记（含可视化结果）
 ├── experiments/          # 可复现的实验代码（PyTorch/TensorFlow）
 ├── docs/                 # 技术总结文档（如《量化入门指南》《剪枝实战手册》）
+<<<<<<< HEAD
 └── assets/               # 图表、架构图等资源
+=======
+└── assets/               # 图表、架构图等资源
+>>>>>>> f94db920d8d2db721d4641312066f4e7e9ac0128
