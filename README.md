@@ -31,4 +31,4 @@ model_compression_study/
 ```
 
 #### ⭐ 如果你觉得本项目有帮助，欢迎点个 Star！
-[![Star History Chart](https://api.star-history.com/svg?repos=TheodorePTP/model_compression_study&type=Date)](https://star-history.com/#TheodorePTP/model_compression_study&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=TheodorePTP/model_compression_action&type=Date)](https://star-history.com/#TheodorePTP/model_compression_action&Date)
