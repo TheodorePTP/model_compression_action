@@ -2,19 +2,17 @@
   <img src="assets/banner.png" alt="Model Compression Study Banner" width="100%">
 </p>
 
-> **模型压缩技术：量化 · 剪枝 · 蒸馏 · 加速部署**
-
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/your-username/model_compression_study?style=social)](https://github.com/your-username/model_compression_study)
-
-本仓库用于系统梳理**模型压缩**领域的经典与前沿方法。包括**技术文档**与**项目实践**两部分
-技术分类主要涵盖：
+### 📚 仓库介绍
+本仓库用于系统梳理**模型压缩**领域的经典与前沿方法。包括**技术文档**与**项目实践**两部分  
+#### 技术分类主要涵盖：
 - 🔹 **模型量化（Quantization）**
 - ✂️ **模型剪枝（Pruning）**
 - 🧪 **知识蒸馏（Knowledge Distillation）**
-- ⚡ **部署优化**
+- ⚡ **部署优化（deployment_optimization）**
 
-## 📚 仓库主要结构
+### 📚 仓库主要结构
 ```bash
 model_compression_study/
 ├── docs/                 # 技术文档相关
@@ -30,3 +28,6 @@ model_compression_study/
 │   └── deployment_optimization/ # 
 │
 └── README.md             # 项目介绍与使用说明
+```
+
+[![Star History Chart](https://api.star-history.com/svg?repos=TheodorePTP/model_compression_study&type=Date)](https://star-history.com/#TheodorePTP/model_compression_study&Date)
