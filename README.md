@@ -3,7 +3,7 @@
 </p>
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/your-username/model_compression_study?style=social)](https://github.com/your-username/model_compression_study)
+![GitHub Stars](https://img.shields.io/github/stars/TheodorePTP/model_compression_study?style=social)
 ### 📚 仓库介绍
 本仓库用于系统梳理**模型压缩**领域的经典与前沿方法。包括**技术文档**与**项目实践**两部分  
 #### 技术分类主要涵盖：
