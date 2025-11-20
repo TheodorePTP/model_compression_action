@@ -29,6 +29,27 @@ model_compression_study/
 │
 └── README.md             # 项目介绍与使用说明
 ```
+### 💻 更新进度
+|docs|进度|完成时间|
+|---|-----|---|
+|**deployment_optimization** | 🔴待开始 |
+|**pruning** | 🔴待开始 |
+|**quantization** | 🔴待开始 |
+|**distillation** | 🟢进行中 |
+|KD|完成✅|20251120|
+|AT|待完成| \ |
+|CRD|待完成| \ |
+|DKD|待完成| \ |
+|FitNet|待完成| \ |
+|KDSVD|待完成| \ |
+|NST|待完成| \ |
+|OFD|待完成| \ |
+|PKT|待完成| \ |
+|ReviewkD|待完成| \ |
+|RKD|待完成| \ |
+|SP|待完成| \ |
+|VID|待完成| \ |
+
 
 #### ⭐ 如果你觉得本项目有帮助，欢迎点个 Star！
 [![Star History Chart](https://api.star-history.com/svg?repos=TheodorePTP/model_compression_action&type=Date)](https://star-history.com/#TheodorePTP/model_compression_action&Date)
