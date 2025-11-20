@@ -14,4 +14,5 @@
 
 ## 本目录内容
 - [经典方法](classic_methods.md)：Hinton KD, FitNets, Attention Transfer...
+- [论文分析](paper_analysis)：对经典方法的论文逐个解析
 - [实践指南](practical_guide.md)：PyTorch 实现、超参设置、避坑建议
