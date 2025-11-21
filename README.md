@@ -30,13 +30,13 @@ model_compression_study/
 └── README.md             # 项目介绍与使用说明
 ```
 ### 💻 更新进度
-|docs|进度|完成时间|文章链接|
-|---|-----|---|--|
-|**deployment_optimization** | 🔴待开始 | \ |\ |
-|**pruning** | 🔴待开始 | \ | \ |
-|**quantization** | 🔴待开始 | \ | \ |
-|**distillation** | 🟢进行中 | \ | \ |
-| KD | 完成✅ | 20251121 | [KD方法解析](https://blog.csdn.net/qq_44923064/article/details/155098435?fromshare=blogdetail&sharetype=blogdetail&sharerId=155098435&sharerefer=PC&sharesource=qq_44923064&sharefrom=from_link) |
+|docs|进度|完成时间|文章链接|相关代码|
+|---|-----|---|--|---|
+|**deployment_optimization** | 🔴待开始 | \ |\ |\ |
+|**pruning** | 🔴待开始 | \ | \ |\ |
+|**quantization** | 🔴待开始 | \ | \ |\ |
+|**distillation** | 🟢进行中 | \ | \ |\ |
+| KD | 完成✅ | 20251121 | [KD方法解析](https://blog.csdn.net/qq_44923064/article/details/155098435?fromshare=blogdetail&sharetype=blogdetail&sharerId=155098435&sharerefer=PC&sharesource=qq_44923064&sharefrom=from_link) | [KD相关代码](experiments/distillation/KD)|
 |AT|待完成| \ |\|
 |CRD|待完成| \ |\|
 |DKD|待完成| \ |\|
