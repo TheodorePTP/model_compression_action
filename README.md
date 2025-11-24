@@ -37,7 +37,7 @@ model_compression_study/
 |**quantization** | 🔴待开始 | \ |\ |
 |**distillation** | 🟢进行中 | [经典知识蒸馏方法分类论文梳理](docs/distillation/classic_methods.md) |\ |
 | KD | 完成✅  | [KD方法解析](https://blog.csdn.net/qq_44923064/article/details/155098435?fromshare=blogdetail&sharetype=blogdetail&sharerId=155098435&sharerefer=PC&sharesource=qq_44923064&sharefrom=from_link) | [KD相关代码](experiments/distillation/KD)|
-|AT|待完成| \ | \ |
+|AT|完成✅| [AT方法解析](https://blog.csdn.net/qq_44923064/article/details/155104865?fromshare=blogdetail&sharetype=blogdetail&sharerId=155104865&sharerefer=PC&sharesource=qq_44923064&sharefrom=from_link) | [AT相关代码](experiments/distillation/AT/at_attention_comparison.py) |
 |CRD|待完成| \ | \ |
 |DKD|待完成| \ |\ |
 |FitNet|待完成| \ |\ |
